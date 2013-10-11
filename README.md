@@ -17,7 +17,7 @@ git submodule update
 
 ## Usage
 
-The main API documentation is to be found on the page for developers http://ordr.in/developers/api/order. In the attached DemoApp you can find basic usage of all the available methods. API is implemented supporting blocks and is very simple. See:
+The main API documentation is to be found on the page for developers https://hackfood.ordr.in/docs. In the attached DemoApp you can find basic usage of all the available methods. API is implemented supporting blocks and is very simple. See:
 
 
 ``` objective-c
